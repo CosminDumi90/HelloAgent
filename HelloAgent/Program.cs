@@ -2,7 +2,7 @@
 using Azure.Identity;
 using Microsoft.Agents.AI;
 using OpenAI.Chat;
-using System.ClientModel;
+
 
 
 // 1. Define the variables we extracted from Microsoft Foungry

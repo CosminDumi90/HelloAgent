@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BasicAgentAPP/BasicAgentAPP.csproj" Id="9747decf-139f-4480-b15b-ad439c408f91" />
+  <Project Path="HelloAgent/HelloAgent.csproj" />
+</Solution>
