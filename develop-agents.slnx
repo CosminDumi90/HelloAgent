@@ -1,4 +1,13 @@
 <Solution>
+  <Folder Name="/MinimalAgent/">
+    <Project Path="MinimalAgent/MinimalAgent.AppHost/MinimalAgent.AppHost.csproj" Id="ec542e9d-3cdb-4792-8790-2ecadb00c7ea" />
+    <Project Path="MinimalAgent/MinimalAgent.ServiceDefaults/MinimalAgent.ServiceDefaults.csproj" />
+    <Project Path="MinimalAgent/WebApi/WebApi.csproj" />
+  </Folder>
   <Project Path="BasicAgentAPP/BasicAgentAPP.csproj" Id="9747decf-139f-4480-b15b-ad439c408f91" />
+  <Project Path="FunctionCall/FunctionCall.csproj" Id="3a57b03c-0d4b-4018-9712-877f8557b338" />
   <Project Path="HelloAgent/HelloAgent.csproj" />
+  <Project Path="MultiTurn/MultiTurn.csproj" Id="8dc8961e-f257-4282-8be4-1f2a48cdc3f3" />
+  <Project Path="Streaming/Streaming.csproj" Id="543c29c3-f594-497f-8199-bf080c470c94" />
+  <Project Path="StructuredOutput/StructuredOutput.csproj" Id="3d50a21d-a428-40e9-b2b7-46badf34d01c" />
 </Solution>

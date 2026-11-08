@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "MinimalAgent.AppHost/MinimalAgent.AppHost.csproj"
+  }
+}
